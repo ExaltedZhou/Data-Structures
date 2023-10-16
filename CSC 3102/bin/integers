@@ -1,0 +1,26 @@
+stats
+insert 12
+insert 9
+insert 11
+insert 10
+traverse -0
+stats
+insert 5
+insert 4
+insert 3
+stats
+insert 8
+insert 1
+insert 2
+traverse -1
+insert 6
+insert 7
+stats
+delete 2
+stats
+delete 3
+stats
+delete 5
+stats
+delete 7
+stats

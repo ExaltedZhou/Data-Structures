@@ -1,0 +1,21 @@
+p 5 6
+
+c  This graph consists of 5 vertices and 6 edges
+c  city12.wdg
+c  It is a strongly connected digraph
+
+c vertices
+n  	1  	Alexandria, LA
+n  	2  	Baton Rouge, LA
+n	3	Covington, LA
+n	4	Dallas, TX
+n 	5	El Paso, TX
+
+
+c These are the weighted directed edges
+e	1	2	25
+e	2	3	58
+e	3	4	24
+e	3	5	71
+e	4	3	54
+e	5	1	146
